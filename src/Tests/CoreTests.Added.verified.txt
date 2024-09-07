@@ -1,8 +1,0 @@
-﻿{
-  Added: {
-    Company: {
-      Id: 0,
-      Name: company name
-    }
-  }
-}
