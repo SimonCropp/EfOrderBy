@@ -1,0 +1,11 @@
+﻿{
+  Modified: {
+    Company: {
+      Id: 0,
+      Name: {
+        Original: old name,
+        Current: new name
+      }
+    }
+  }
+}

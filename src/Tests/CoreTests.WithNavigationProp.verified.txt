@@ -1,0 +1,18 @@
+﻿{
+  Modified: {
+    Company: {
+      Id: 0,
+      Name: {
+        Original: companyBefore,
+        Current: companyAfter
+      }
+    },
+    Employee: {
+      Id: 0,
+      Name: {
+        Original: employeeBefore,
+        Current: employeeAfter
+      }
+    }
+  }
+}

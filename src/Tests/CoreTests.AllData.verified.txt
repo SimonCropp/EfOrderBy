@@ -1,0 +1,43 @@
+﻿[
+  {
+    $type: Company,
+    Id: 1,
+    Name: Company1
+  },
+  {
+    $type: Company,
+    Id: 4,
+    Name: Company2
+  },
+  {
+    $type: Company,
+    Id: 6,
+    Name: Company3
+  },
+  {
+    $type: Company,
+    Id: 7,
+    Name: Company4
+  },
+  {
+    $type: Employee,
+    Id: 2,
+    CompanyId: 1,
+    Name: Employee1,
+    Age: 25
+  },
+  {
+    $type: Employee,
+    Id: 3,
+    CompanyId: 1,
+    Name: Employee2,
+    Age: 31
+  },
+  {
+    $type: Employee,
+    Id: 5,
+    CompanyId: 4,
+    Name: Employee4,
+    Age: 34
+  }
+]

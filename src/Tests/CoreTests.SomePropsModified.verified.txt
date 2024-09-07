@@ -1,0 +1,11 @@
+﻿{
+  Modified: {
+    Employee: {
+      Id: 0,
+      Name: {
+        Original: before,
+        Current: after
+      }
+    }
+  }
+}
